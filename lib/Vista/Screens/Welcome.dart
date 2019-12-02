@@ -13,7 +13,7 @@ class _WelcomeState extends State<Welcome> {
         //leading: Image(
          // image: AssetImage('Assets/Hojita.png'),
         //),
-        title: Text("Home"),
+        title: Text("Homeee"),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.menu), 
